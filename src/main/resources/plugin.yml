@@ -1,0 +1,4 @@
+name: SImpleCommandHandler
+version: '${project.version}'
+main: me.undefined.sch.SimpleCommandHandler
+api-version: 1.17
